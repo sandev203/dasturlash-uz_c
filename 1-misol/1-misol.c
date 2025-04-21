@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(){
+int main()
+{
     int a, sum=0;
     printf("a="); scanf("%d",&a);
     for(int i=0; i<=a; i++)
